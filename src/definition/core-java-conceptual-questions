@@ -1,14 +1,18 @@
 Please answer the below core-java Questions:
 
 What is programing language?
-A.
+Answer:  A programming language is a set of commands, instructions, and other syntax used to instruct the
+computer to perform various tasks. Languages that programmers use to write code are called "high-level languages.
+
 What jdk contains or composed of and define each components?
-A.
+
 What is IDE?
 A.
 What are the IDEs available in the market to support java?
 Explain the entire java life cycle.
 what is class?
+Object is an instance of a class
+Class is the blueprint of of an object
 What is object?
 What is the entry point of an application?
 Why main is static?
