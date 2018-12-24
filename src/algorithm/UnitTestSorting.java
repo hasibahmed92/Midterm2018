@@ -12,6 +12,7 @@ public class UnitTestSorting {
         int [] sortedArray =   {0,1,2,4,5,6,9};
         //Create Sort object
         Sort sort = new Sort();
+
         //apply unsorted array to selectionSort.
         sort.selectionSort(unSortedArray);
         //verify if the unsorted array is sorted by the selection sort algorithm.
