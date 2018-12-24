@@ -21,8 +21,8 @@ public class Anagram {
         if (str1.length() != str2.length()) {
             return false;
         }
-        //str1=str1.toUpperCase();
-        //str2=str2.toUpperCase();
+        str1=str1.toUpperCase();
+        str2=str2.toUpperCase();
 
         char[] str1c =str1.toCharArray();
         Arrays.sort(str1c);
