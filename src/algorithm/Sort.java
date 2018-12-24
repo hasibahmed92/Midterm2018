@@ -273,8 +273,9 @@ public class Sort {
     }
 
 
-    public int [] bucketSort(int [] array, int maxValue) {
+    public int [] bucketSort(int[] array) {
         final long startTime = System.currentTimeMillis();
+        int maxValue=0;
         int[] list = array;
         //implement here
         int[] a = new int[maxValue + 1];
